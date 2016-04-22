@@ -6,7 +6,11 @@ Chris
 MEMBER 2 NAME
 Lachlan
  
+<<<<<<< HEAD
 Person NAME
+=======
+MEMBER 4 NAME
+>>>>>>> origin/master
 Mira
  
 MEMBER 4 NAME
