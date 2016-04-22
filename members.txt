@@ -6,7 +6,7 @@ Chris
 MEMBER 2 NAME
 Lachlan
  
-MEMBER 3 NAME
+Person NAME
 Mira
  
 MEMBER 4 NAME
